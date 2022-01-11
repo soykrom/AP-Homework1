@@ -99,7 +99,7 @@ def train_batch(X, y, model, optimizer, criterion, **kwargs):
     to use an optimizer object to update the parameters.
 
     This function should return the loss (tip: call loss.item()) to get the
-    loss as a numerical value that is not part of the computation graph.
+    loss as a numerical value that is not part of the computation graph :)
     """
     raise NotImplementedError
 
